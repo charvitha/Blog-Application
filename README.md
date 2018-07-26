@@ -8,3 +8,4 @@ To access:
 > npm install
 > npm start
 ```
+then, open your browser and run it on localhost:8080
